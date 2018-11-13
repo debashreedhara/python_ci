@@ -1,1 +1,1 @@
-print("CI test")
+print("CI/CD test")
